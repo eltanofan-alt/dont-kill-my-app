@@ -1,4 +1,4 @@
----
+oppo A15
 manufacturer: 
     - oppo
 
